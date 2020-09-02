@@ -23,6 +23,6 @@ Please share what use cases you have.
 
 ## Packages which use Effects
 
-- [MsgFromJs](https://package.elm-lang.org/packages/ContaSystemer/elm-msg-from-js/latest/)
-- [Animation](https://package.elm-lang.org/packages/ContaSystemer/elm-animation/latest/)
-- [Time](https://package.elm-lang.org/packages/ContaSystemer/elm-time/latest/)
+- [MsgFromJs](https://package.elm-lang.org/packages/ContaSystemer/elm-effects-msg-from-js/latest/)
+- [Animation](https://package.elm-lang.org/packages/ContaSystemer/elm-effects-animation/latest/)
+- [Time](https://package.elm-lang.org/packages/ContaSystemer/elm-effects-time/latest/)
