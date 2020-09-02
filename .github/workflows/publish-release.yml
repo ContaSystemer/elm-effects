@@ -1,0 +1,14 @@
+name: Publish a release
+
+on:
+  release:
+    types:
+      - created
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.3.2
+      - uses: justgook/setup-elm@1.2.0
+      - run: elm publish
