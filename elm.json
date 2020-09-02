@@ -3,7 +3,7 @@
     "name": "ContaSystemer/elm-effects",
     "summary": "Effects package helps to manage additional program effects",
     "license": "BSD-3-Clause",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Effects"
     ],
